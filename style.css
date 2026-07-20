@@ -687,3 +687,11 @@ transform:scale(.8);
 }
 
 }
+
+.instagram{
+    border:5px solid #E1306C;
+}
+
+.instagram i{
+    color:#E1306C;
+}
